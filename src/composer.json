@@ -1,0 +1,26 @@
+{
+    "name": "namaa/cms",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Feras-alhallak",
+            "email": "eng.ferasalhallak@gmail.com"
+        }
+    ],
+    "require": {
+        "aws/aws-sdk-php": "^3.218"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Namaa\\Cms\\CmsServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Namaa\\Cms\\": "src/"
+        }
+    }
+}
