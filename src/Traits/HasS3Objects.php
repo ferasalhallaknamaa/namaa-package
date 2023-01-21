@@ -1,6 +1,6 @@
 <?php
 
-namespace Namaa\Cms\Traits;
+namespace Namaa\Namaa\Traits;
 
 use Illuminate\Support\Str;
 

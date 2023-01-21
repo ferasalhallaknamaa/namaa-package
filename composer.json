@@ -1,5 +1,5 @@
 {
-    "name": "namaa/cms",
+    "name": "namaa/namaa",
     "license": "MIT",
     "authors": [
         {
@@ -14,13 +14,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Namaa\\Cms\\CmsServiceProvider"
+                "Namaa\\Namaa\\NamaaServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "Namaa\\Cms\\": "src/"
+            "Namaa\\Namaa\\": "src/"
         }
     }
 }

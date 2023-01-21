@@ -1,10 +1,10 @@
 <?php
 
-namespace Namaa\Cms;
+namespace Namaa\Namaa;
 
 use Illuminate\Support\ServiceProvider;
 
-class CmsServiceProvider extends ServiceProvider
+class NamaaServiceProvider extends ServiceProvider
 {
     /**
      * Register services.

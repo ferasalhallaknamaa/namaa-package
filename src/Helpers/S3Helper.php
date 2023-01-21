@@ -1,6 +1,6 @@
 <?php
 
-namespace Namaa\Cms\Helpers;
+namespace Namaa\Namaa\Helpers;
 
 use Aws\S3\S3Client;
 
